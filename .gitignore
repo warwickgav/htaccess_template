@@ -1,0 +1,10 @@
+# IDEA config files
+/.idea/
+/build/.idea
+/.idea/workspace.xml
+
+# Codekit config files
+config.codekit3
+
+# Misc files
+.DS_Store
