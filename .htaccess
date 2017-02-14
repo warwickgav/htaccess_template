@@ -3,8 +3,8 @@
 # ----------------------------------------------------------------------
 
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^myriverhills.com.au
-RewriteRule ^(.*)$ http://www.myriverhills.com.au/$1 [R=301]
+RewriteCond %{HTTP_HOST} ^domainname.com.au
+RewriteRule ^(.*)$ http://www.domainname.com.au/$1 [R=301]
 
 # Additional recommended values
 # Remove comments for those you want to use.
